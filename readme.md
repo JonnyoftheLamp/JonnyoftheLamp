@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python.
 - 🌈 I’d love to hear from you.
 - 📫 How to reach me: 
-- 😁 Either via my LinkedIn profile(https://www.linkedin.com/in/jonathandatabayo/) or just give me a call on +44-74-7112-5972
+- 😁 Either via my LinkedIn profile(https://www.linkedin.com/in/jonathandatabayo/) or just give me a call on +44 74 7112 5972
