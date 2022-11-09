@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m looking to become a junior data analyst.
+- 👀 I’m looking for junior data analyst positions.
 - 🌱 I’m currently learning Python.
 - 🌈 I’d love to hear from you.
 - 📫 How to reach me: 
